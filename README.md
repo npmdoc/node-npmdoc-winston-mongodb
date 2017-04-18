@@ -1,9 +1,14 @@
-# api documentation for  [winston-mongodb (v2.0.8)](https://github.com/indexzero/winston-mongodb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-winston-mongodb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-winston-mongodb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-winston-mongodb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-winston-mongodb)
+# npmdoc-winston-mongodb
+
+#### api documentation for  [winston-mongodb (v2.0.8)](https://github.com/indexzero/winston-mongodb#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-winston-mongodb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-winston-mongodb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-winston-mongodb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-winston-mongodb)
+
 #### A MongoDB transport for winston
 
-[![NPM](https://nodei.co/npm/winston-mongodb.png?downloads=true)](https://www.npmjs.com/package/winston-mongodb)
+[![NPM](https://nodei.co/npm/winston-mongodb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/winston-mongodb)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-winston-mongodb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-winston-mongodb/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Charlie Robbins",
-        "email": "charlie.robbins@gmail.com"
+        "name": "Charlie Robbins"
     },
     "bugs": {
         "url": "https://github.com/indexzero/winston-mongodb/issues"
@@ -26,16 +30,13 @@
     "contributors": [
         {
             "name": "Yurij Mikhalevich",
-            "email": "0@39.yt",
             "url": "https://39.yt/"
         },
         {
-            "name": "Kendrick Taylor",
-            "email": "sktayloriii@gmail.com"
+            "name": "Kendrick Taylor"
         },
         {
-            "name": "Steve Dalby",
-            "email": "steve@stevedalby.co.uk"
+            "name": "Steve Dalby"
         }
     ],
     "dependencies": {
@@ -69,21 +70,17 @@
     "main": "./lib/winston-mongodb",
     "maintainers": [
         {
-            "name": "indexzero",
-            "email": "charlie.robbins@gmail.com"
+            "name": "indexzero"
         },
         {
-            "name": "chjj",
-            "email": "chjjeffrey@gmail.com"
+            "name": "chjj"
         },
         {
-            "name": "39dotyt",
-            "email": "0@39.yt"
+            "name": "39dotyt"
         }
     ],
     "name": "winston-mongodb",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/indexzero/winston-mongodb.git"
@@ -96,16 +93,6 @@
     "version": "2.0.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module winston-mongodb](#apidoc.module.winston-mongodb)
-
-
-
-# <a name="apidoc.module.winston-mongodb"></a>[module winston-mongodb](#apidoc.module.winston-mongodb)
 
 
 
